@@ -1,1 +1,5 @@
 This is to test the github
+This is for testing squash
+squash2
+Squash3
+squash4
